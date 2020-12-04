@@ -1,0 +1,35 @@
+.B{
+    display: inline-block;
+    
+       
+}
+.CV{
+    margin-top: 30px;
+    background-color:#cccccc;
+    min-width: 100%;
+    min-height: 500px;
+}
+.div2{
+    margin-top: 30px;
+    border-width :1px; 
+    border-color:black ;
+    border-style: solid;
+    max-width: max-content;
+    padding-right: 20px;
+    margin-left: 15px;
+    padding-bottom: 10px;
+}
+.F{
+    padding-left: 15px;
+}
+.bar{
+    min-height: 30px;
+    background-color: #4bb3d3;
+    margin-bottom: 10px;
+}
+.Space{
+    margin-right: 5px;
+}
+.left{
+    margin-right: -20px;
+}

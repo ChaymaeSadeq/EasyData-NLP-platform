@@ -1,0 +1,58 @@
+.ui.basic {
+    height: 650px;
+    border-color: lightgray;
+    border-left: none;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    font-size: 1rem;
+    color: black;
+    position: relative;
+    box-shadow: 2px 0px rgb(241, 241, 241);
+}
+
+.segment {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.sidebar {
+    
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.item:active {
+    background-color: lightgrey;
+    transition: all .2s ease;
+    text-decoration: none;
+    width: 100%;
+}
+
+.item:hover {
+    background-color: lightgrey;
+    transition: all .2s ease;
+    text-decoration: none;
+    width: 100%;
+}
+
+i {
+    color: rgb(57, 108, 204);
+}
+
+h7 {
+    color: black;
+}
